@@ -1,4 +1,4 @@
-# Spash Sort Algorithm
+# Splash Sort Algorithm
 splash sort is a sorting algorithm which i created with myself
 ## Realization
 
