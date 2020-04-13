@@ -3,7 +3,7 @@ splash sort is an algorithm which i created with myself
 ## Realization
 
 C#:
-``` 
+```C#
 public static void sort(int[] arr)
 {
     for(int i = 0; i <= arr.Length-1; i++)
