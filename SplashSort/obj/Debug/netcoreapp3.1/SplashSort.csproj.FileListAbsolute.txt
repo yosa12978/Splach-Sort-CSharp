@@ -1,0 +1,13 @@
+D:\App's\My Sort Algorithm\SplashSort\bin\Debug\netcoreapp3.1\SplashSort.exe
+D:\App's\My Sort Algorithm\SplashSort\bin\Debug\netcoreapp3.1\SplashSort.deps.json
+D:\App's\My Sort Algorithm\SplashSort\bin\Debug\netcoreapp3.1\SplashSort.runtimeconfig.json
+D:\App's\My Sort Algorithm\SplashSort\bin\Debug\netcoreapp3.1\SplashSort.runtimeconfig.dev.json
+D:\App's\My Sort Algorithm\SplashSort\bin\Debug\netcoreapp3.1\SplashSort.dll
+D:\App's\My Sort Algorithm\SplashSort\bin\Debug\netcoreapp3.1\SplashSort.pdb
+D:\App's\My Sort Algorithm\SplashSort\obj\Debug\netcoreapp3.1\SplashSort.csprojAssemblyReference.cache
+D:\App's\My Sort Algorithm\SplashSort\obj\Debug\netcoreapp3.1\SplashSort.csproj.CoreCompileInputs.cache
+D:\App's\My Sort Algorithm\SplashSort\obj\Debug\netcoreapp3.1\SplashSort.AssemblyInfoInputs.cache
+D:\App's\My Sort Algorithm\SplashSort\obj\Debug\netcoreapp3.1\SplashSort.AssemblyInfo.cs
+D:\App's\My Sort Algorithm\SplashSort\obj\Debug\netcoreapp3.1\SplashSort.dll
+D:\App's\My Sort Algorithm\SplashSort\obj\Debug\netcoreapp3.1\SplashSort.pdb
+D:\App's\My Sort Algorithm\SplashSort\obj\Debug\netcoreapp3.1\SplashSort.genruntimeconfig.cache
