@@ -1,5 +1,5 @@
 # Spash Sort Algorithm
-splash sort is an algorithm which i created with myself
+splash sort is a sorting algorithm which i created with myself
 ## Realization
 
 C#:
